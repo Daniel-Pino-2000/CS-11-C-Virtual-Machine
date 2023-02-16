@@ -1,5 +1,7 @@
 #VirtualMachine
 
+This is the final assignment of the CS11 C Caltech lectures.
+
 Project Description:
 CS11C Assignment 8. This application implements an extremely simple virtual machine but powerful enough to do complex computations.
 The virtual machine is implemented as a struct which contains the following:
